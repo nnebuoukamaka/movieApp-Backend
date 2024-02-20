@@ -1,0 +1,15 @@
+C:\Users\Decagon\source\repos\movie.application\bin\Debug\net6.0\movie.application.deps.json
+C:\Users\Decagon\Source\Repos\movie.application\bin\Debug\net6.0\movie.application.dll
+C:\Users\Decagon\Source\Repos\movie.application\bin\Debug\net6.0\movie.application.pdb
+C:\Users\Decagon\Source\Repos\movie.application\bin\Debug\net6.0\movie.domain.dll
+C:\Users\Decagon\Source\Repos\movie.application\bin\Debug\net6.0\movie.domain.pdb
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.csproj.AssemblyReference.cache
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.AssemblyInfoInputs.cache
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.AssemblyInfo.cs
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\source\repos\movie.application\obj\Debug\net6.0\movie.application.csproj.CopyComplete
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.dll
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\refint\movie.application.dll
+C:\Users\Decagon\Source\Repos\movie.application\obj\Debug\net6.0\movie.application.pdb
+C:\Users\Decagon\source\repos\movie.application\obj\Debug\net6.0\ref\movie.application.dll
