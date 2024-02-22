@@ -10,3 +10,16 @@ C:\Users\Decagon\Source\Repos\movie.domain\obj\Debug\net6.0\movie.domain.dll
 C:\Users\Decagon\Source\Repos\movie.domain\obj\Debug\net6.0\refint\movie.domain.dll
 C:\Users\Decagon\Source\Repos\movie.domain\obj\Debug\net6.0\movie.domain.pdb
 C:\Users\Decagon\source\repos\movie.domain\obj\Debug\net6.0\ref\movie.domain.dll
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\bin\Debug\net6.0\movie.domain.deps.json
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\bin\Debug\net6.0\movie.domain.dll
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\bin\Debug\net6.0\movie.domain.pdb
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.sourcelink.json
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.dll
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\refint\movie.domain.dll
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\movie.domain.pdb
+C:\Users\Decagon\Desktop\React\movieAppBackend\Movie Backend\movie.domain\obj\Debug\net6.0\ref\movie.domain.dll

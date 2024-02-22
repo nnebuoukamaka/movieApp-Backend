@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NTDpN5KY8tKXgUBVUlosVnZWuio0f9eCCgj3m/P1dX0z1IkFkbAJ1miBMykeHJmdfVXb1mh+k82HmRS5Hlx9vA==",
+  "dgSpecHash": "rsa1pc/Hefqx16E973wiAUJg1RxlrrpCtRytkZTvkqY0yRqwTQZm2CjD9J/KQgcnqc9RWfu4XJV1eqV9fj9AjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Decagon\\source\\repos\\MovieApp\\movie.api.csproj",
+  "projectFilePath": "C:\\Users\\Decagon\\Desktop\\React\\movieAppBackend\\Movie Backend\\MovieApp\\movie.api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Decagon\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
